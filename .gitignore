@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Angular / build output
+dist/
+.angular/
+out-tsc/
+coverage/
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+
+# Private photos/sketches of the house must never be committed (public repo)
+bilder/
